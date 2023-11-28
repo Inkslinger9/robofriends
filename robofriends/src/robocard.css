@@ -1,0 +1,13 @@
+.card-wrapper{
+    background: lightgreen;
+    display: inline-block;
+    padding: 5px;
+    margin: 15px;
+    border-radius: 10px;
+    transition: all .2s ease-in-out;
+    box-shadow: 5px 5px 5px rgb(90, 90, 90);
+}
+
+.card-wrapper:hover{
+    transform: scale(1.1);
+}
